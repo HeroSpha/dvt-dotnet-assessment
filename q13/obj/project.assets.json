@@ -10,21 +10,21 @@
   "packageFolders": {
     "C:\\Users\\appsu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\appsu\\OneDrive\\Desktop\\dvt-senior-dotnet-developer\\test\\test.csproj",
-      "projectName": "test",
-      "projectPath": "C:\\Users\\appsu\\OneDrive\\Desktop\\dvt-senior-dotnet-developer\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\appsu\\OneDrive\\Desktop\\dvt-senior-dotnet-developer\\q13\\Q13.csproj",
+      "projectName": "Q13",
+      "projectPath": "C:\\Users\\appsu\\OneDrive\\Desktop\\dvt-senior-dotnet-developer\\q13\\Q13.csproj",
       "packagesPath": "C:\\Users\\appsu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\appsu\\OneDrive\\Desktop\\dvt-senior-dotnet-developer\\test\\obj\\",
+      "outputPath": "C:\\Users\\appsu\\OneDrive\\Desktop\\dvt-senior-dotnet-developer\\q13\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
