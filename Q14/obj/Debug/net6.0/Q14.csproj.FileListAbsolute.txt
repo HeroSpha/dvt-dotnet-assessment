@@ -1,0 +1,15 @@
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\bin\Debug\net6.0\Q14.exe
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\bin\Debug\net6.0\Q14.deps.json
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\bin\Debug\net6.0\Q14.runtimeconfig.json
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\bin\Debug\net6.0\Q14.dll
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\bin\Debug\net6.0\Q14.pdb
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\obj\Debug\net6.0\Q14.csproj.AssemblyReference.cache
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\obj\Debug\net6.0\Q14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\obj\Debug\net6.0\Q14.AssemblyInfoInputs.cache
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\obj\Debug\net6.0\Q14.AssemblyInfo.cs
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\obj\Debug\net6.0\Q14.csproj.CoreCompileInputs.cache
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\obj\Debug\net6.0\Q14.dll
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\obj\Debug\net6.0\refint\Q14.dll
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\obj\Debug\net6.0\Q14.pdb
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\obj\Debug\net6.0\Q14.genruntimeconfig.cache
+C:\Users\appsu\OneDrive\Desktop\dvt-senior-dotnet-developer\Q14\obj\Debug\net6.0\ref\Q14.dll
